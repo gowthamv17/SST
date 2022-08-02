@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productDetails>
+<product>
+	<productname>HPlaptop</productname>
+	<qty>5</qty>
+	<price>54000</price>
+	<orderID>345</orderID>
+	<deliveryAddress>
+		<streetname>KamarajarStreet</streetname>	
+		<city>Chennai</city>
+		<district>Chennai</district>
+		<country>India</country>
+		<contactDetails>
+			<emailID>gautam@gmail.com</emailID>
+			<phone>
+				<mobileNo>8870211473</mobileNo>
+				<landLineNo>4442134182</landLineNo>
+			</phone>
+		</contactDetails>
+	</deliveryAddress>
+</product>
+<product>
+	<productname>HPlaptop</productname>
+	<qty>5</qty>
+	<price>54000</price>
+	<orderID>345</orderID>
+	<deliveryAddress>
+		<streetname>KamarajarStreet</streetname>	
+		<city>Chennai</city>
+		<district>Chennai</district>
+		<country>India</country>
+		<contactDetails>
+			<emailID>gautam@gmail.com</emailID>
+			<phone>
+				<mobileNo>8870211473</mobileNo>
+				<landLineNo>4442134182</landLineNo>
+			</phone>
+		</contactDetails>
+	</deliveryAddress>
+</product>
+</productDetails>
+
+
